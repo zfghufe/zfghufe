@@ -1,4 +1,4 @@
-# Plexi Development
+# 3aza Development
 Public issue tracker &amp; project manager for Plexi Development.
 
 ---
@@ -11,4 +11,3 @@ Public issue tracker &amp; project manager for Plexi Development.
 ---
 
 **Discord:** https://discord.gg/plexidev
-**Website:** https://plexidev.org
